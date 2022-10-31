@@ -1,0 +1,218 @@
+/* Font Import */
+@import url('https://fonts.googleapis.com/css?family=Anton:400');
+@import url('https://fonts.googleapis.com/css?family=Inter:400');
+@import url('https://fonts.googleapis.com/css?family=Nunito:400');
+
+
+
+.canvas {
+    display: flex;
+    flex-direction: column;
+    height: 8613px;
+}
+
+.canvasb {
+    flex-grow: 1; display: flex
+}
+
+.Canvasp{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    position: relative;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.imgc {
+    width: 61px;
+    height: 70px;
+    display: flex;
+    position: absolute;
+    left: 326px;
+    top: 12px;
+    box-sizing: border-box;
+}
+
+.canvas {
+    display: flex;
+    position: absolute;
+    left: 426px;
+    top: 21px;
+    justify-content: flex-start;
+    text-align: left;
+    margin: 0;
+    box-sizing: border-box;
+    font-size: 28px;
+    font-family: Anton;
+    font-weight: 400;
+    color: #ff2d3e;
+    letter-spacing: 0;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+
+#home {
+    display: flex;
+    position: absolute;
+    left: 426px;
+    top: 21px;
+    justify-content: flex-start;
+    text-align: left;
+    margin: 0;
+    box-sizing: border-box;
+    font-size: 28px;
+    font-family: Anton;
+    font-weight: 400;
+    color: #ff2d3e;
+    letter-spacing: 0;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+
+#aboutus {
+    display: flex;
+          position: absolute;
+          left: 529px;
+          top: 21px;
+          justify-content: flex-start;
+          text-align: left;
+          margin: 0;
+          box-sizing: border-box;
+          font-size: 28px;
+          font-family: Anton;
+          font-weight: 400;
+          color: #ff2d3e;
+          letter-spacing: 0;
+          text-overflow: ellipsis;
+          overflow: hidden;
+}
+
+#services {
+    display: flex;
+    position: absolute;
+    left: 682px;
+    top: 21px;
+    justify-content: flex-start;
+    text-align: left;
+    margin: 0;
+    box-sizing: border-box;
+    font-size: 28px;
+    font-family: Anton;
+    font-weight: 400;
+    color: #ff2d3e;
+    letter-spacing: 0;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+
+#contact {
+    display: flex;
+    position: absolute;
+    left: 819px;
+    top: 21px;
+    justify-content: flex-start;
+    text-align: left;
+    margin: 0;
+    box-sizing: border-box;
+    font-size: 28px;
+    font-family: Anton;
+    font-weight: 400;
+    color: #ff2d3e;
+    letter-spacing: 0;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+
+.imgbl {
+    width: 133px;
+    height: 34px;
+    display: flex;
+    position: absolute;
+    left: 1289px;
+    top: 30px;
+    border-radius: 8px;
+    box-sizing: border-box;
+}
+
+#login {
+    display: flex;
+    position: absolute;
+    left: 1333px;
+    top: 31px;
+    justify-content: flex-start;
+    text-align: left;
+    margin: 0;
+    box-sizing: border-box;
+    font-size: 20px;
+    font-family: Anton;
+    font-weight: 400;
+    color: #239b9b;
+    letter-spacing: 0;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+
+.buttonr {
+    width: 133px;
+    height: 34px;
+    display: flex;
+    position: absolute;
+    left: 1462px;
+    top: 30px;
+    background-color: #011f67;
+    border-radius: 8px;
+    box-sizing: border-box
+}
+
+
+#register {
+    display: flex;
+          position: absolute;
+          left: 1494px;
+          top: 31px;
+          justify-content: flex-start;
+          text-align: left;
+          margin: 0;
+          box-sizing: border-box;
+          font-size: 20px;
+          font-family: Anton;
+          font-weight: 400;
+          color: #239b9b;
+          letter-spacing: 0;
+          text-overflow: ellipsis;
+          overflow: hidden;
+}
+
+.imgcs {
+    width: 168px;
+    height: 175px;
+    display: flex;
+    position: absolute;
+    left: 999px;
+    top: -55px;
+    box-sizing: border-box;
+}
+
+.section1 {
+    width: 1284px;
+    height: 705px;
+    display: flex;
+    position: absolute;
+    left: 316px;
+    top: 92px;
+    overflow: hidden;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.imgemp01 {
+    width: 861px;
+    height: 620px;
+    display: flex;
+    position: absolute;
+    left: 545px;
+    top: 0;
+    box-sizing: border-box;
+}
+

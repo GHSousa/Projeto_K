@@ -1,0 +1,18 @@
+/* HEADER */
+
+.cabecario {
+    width: auto;
+    height: 150px;
+    background: #eaeaea;
+}
+
+.menuCabecario {
+    flex-direction:row;
+    justify-content: center;
+    text-align: center;
+
+}
+
+.menuCabecario li {
+    padding: 20px;
+}
