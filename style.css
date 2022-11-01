@@ -1,0 +1,8 @@
+.c1Text {
+    flex-direction: column;
+    padding: 20px 0;
+}
+
+.c1Text p {
+    padding: 10px 0;
+}
