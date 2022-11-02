@@ -1,0 +1,20 @@
+.lowerText {
+    font-size: 14px;
+    color: black;
+}
+
+.c1Text h1 {
+    margin-left: 25%;
+    font-size: 80px;
+    text-decoration: dotted;
+    margin: 15px 15px;
+}
+
+.c1Text p {
+    font-size: 16px;
+}
+
+.c1Text button {
+    margin: 40px 40px;
+}
+
